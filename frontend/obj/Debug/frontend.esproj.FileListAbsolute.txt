@@ -1,0 +1,2 @@
+C:\Users\bovanpii\Desktop\heyday_code_test\heyday_twitter_test\frontend\obj\Debug\frontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\bovanpii\Desktop\heyday_code_test\heyday_twitter_test\frontend\obj\Debug\frontend.esproj.CoreCompileInputs.cache
